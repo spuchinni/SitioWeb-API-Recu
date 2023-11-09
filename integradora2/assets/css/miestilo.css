@@ -1,0 +1,73 @@
+nav {
+    background-color: #3498db; /* Azul claro */
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff; /* Texto blanco */
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #2980b9; /* Azul oscuro al pasar el mouse */
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border: 3px solid #3498db; /* Borde azul claro (#3498db) */
+    border-radius: 10px;
+}
+
+.estilo-parrafo {
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+body {
+    background-color: #d6eaf8; /* Azul muy claro */
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4663cc; /* Otro matiz de azul */
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+    background-color: #85c1e9; /* Azul claro */
+}
+
+footer {
+    background-color: #4663cc; /* Otro matiz de azul */
+    color: #fff;
+    padding: 20px 0;
+}
+
+.footer-content {
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: center;
+}

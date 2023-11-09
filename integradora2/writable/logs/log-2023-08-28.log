@@ -1,0 +1,3 @@
+CRITICAL - 2023-08-28 01:32:30 --> Cannot redeclare App\Controllers\Home::registro()
+in APPPATH\Controllers\Home.php on line 48.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
